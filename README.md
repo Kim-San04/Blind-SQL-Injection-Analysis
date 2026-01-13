@@ -2,8 +2,6 @@
 
 # 🛡️ Étude de la Vulnérabilité : Injection SQL Aveugle (Blind SQL Injection)
 
-## 👥 Équipe de Réalisation
-Ce projet a été réalisé par : **Fady Axel BAMBA, Maixente Yakeliomi KOHIO, Pierre Marie KONATE, Cheick Abdel Hadime Hakim SAWADOGO et Mouhamed SALANE**.
 
 ---
 
